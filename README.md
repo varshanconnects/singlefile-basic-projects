@@ -13,3 +13,4 @@ Small, dependency-free Python projects that run in the terminal.
 - `stopwatch.py` - Use a stopwatch or countdown timer.
 - `treasure_hunt.py` - Explore a hidden map and find the treasure before your moves run out.
 - `dice_duel.py` - Roll two dice per turn and beat the computer in a five-round duel.
+- `snake_game.py` - Navigate your snake to eat food and grow longer while avoiding walls and yourself.
