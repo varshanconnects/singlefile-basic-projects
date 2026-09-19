@@ -15,3 +15,4 @@ Small, dependency-free Python projects that run in the terminal.
 - `memory_match.py` - Flip cards to find matching pairs in a classic memory challenge.
 - `dice_duel.py` - Roll two dice per turn and beat the computer in a five-round duel.
 - `word_scramble.py` - Unscramble mixed-up words and build up your score.
+- `battleship.py` - Search a hidden 5x5 grid and sink all enemy ships.
