@@ -8,6 +8,7 @@ Small, dependency-free Python projects that run in the terminal.
 - `quiz_game.py` - Answer general knowledge questions and track your score.
 - `tic_tac_toe.py` - Play two-player Tic-Tac-Toe.
 - `rock_paper_scissors.py` - Challenge the computer in a classic match.
+- `stopwatch.py` - Use a stopwatch or countdown timer.
 - `blackjack_game.py` - Play Blackjack against a dealer and try to reach 21.
 - `number_guessing_game.py` - Guess a secret number across three difficulty levels.
 - `stopwatch.py` - Use a stopwatch or countdown timer.
