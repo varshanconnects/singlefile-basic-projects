@@ -7,6 +7,8 @@ Small, dependency-free Python projects that run in the terminal.
 - `hangman_game.py` - Guess the hidden word before running out of tries.
 - `quiz_game.py` - Answer general knowledge questions and track your score.
 - `tic_tac_toe.py` - Play two-player Tic-Tac-Toe.
+- `RockPaperScissors.java` - Play Rock-Paper-Scissors against the computer in Java.
+- `NumberGuessing.java` - Guess a randomly selected number across three difficulty levels in Java.
 - `rock_paper_scissors.py` - Challenge the computer in a classic match.
 - `stopwatch.py` - Use a stopwatch or countdown timer.
 - `blackjack_game.py` - Play Blackjack against a dealer and try to reach 21.
@@ -17,3 +19,17 @@ Small, dependency-free Python projects that run in the terminal.
 - `dice_duel.py` - Roll two dice per turn and beat the computer in a five-round duel.
 - `word_scramble.py` - Unscramble mixed-up words and build up your score.
 - `battleship.py` - Search a hidden 5x5 grid and sink all enemy ships.
+
+## Run the Java game
+
+```bash
+javac RockPaperScissors.java
+java RockPaperScissors
+```
+
+For Number Guessing:
+
+```bash
+javac NumberGuessing.java
+java NumberGuessing
+```
