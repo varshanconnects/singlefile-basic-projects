@@ -18,6 +18,7 @@ Small, dependency-free Python projects that run in the terminal.
 - `memory_match.py` - Flip cards to find matching pairs in a classic memory challenge.
 - `dice_duel.py` - Roll two dice per turn and beat the computer in a five-round duel.
 - `word_scramble.py` - Unscramble mixed-up words and build up your score.
+- `cows_and_bulls.py` - Deduce a hidden 4-digit code using bulls and cows hints.
 - `battleship.py` - Search a hidden 5x5 grid and sink all enemy ships.
 - `mastermind_game.py` - Crack the computer's four-digit code using exact and misplaced-digit clues.
 
