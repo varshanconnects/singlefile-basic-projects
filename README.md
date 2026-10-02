@@ -20,6 +20,7 @@ Small, dependency-free Python projects that run in the terminal.
 - `word_scramble.py` - Unscramble mixed-up words and build up your score.
 - `battleship.py` - Search a hidden 5x5 grid and sink all enemy ships.
 - `mastermind_game.py` - Crack the computer's four-digit code using exact and misplaced-digit clues.
+- `maze_escape.py` - Collect the key and escape the maze before your turns run out.
 
 ## Run the Java game
 
