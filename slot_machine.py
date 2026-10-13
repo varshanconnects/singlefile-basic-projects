@@ -4,7 +4,7 @@
 import random
 
 
-SYMBOLS = ["Cherry", "Lemon", "Bell", "Bar", "Seven"]
+SYMBOLS = ["Cherry", "Carrot", "Ball", "Bar", "Seven"]
 
 
 def spin_reels():
