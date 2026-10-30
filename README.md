@@ -23,6 +23,7 @@ Small, dependency-free Python projects that run in the terminal.
 - `mastermind_game.py` - Crack the computer's four-digit code using exact and misplaced-digit clues.
 - `wordle_game.py` - Guess a hidden five-letter word in six tries using letter-position clues.
 - `simon_says.py` - Watch a growing sequence of colors and repeat it from memory.
+- `snake_game.py` - Guide a growing snake, collect food, and avoid walls and your own tail.
 
 ## Run the Java game
 
